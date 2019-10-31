@@ -1,0 +1,43 @@
+@charset "utf-8";
+.res-box{
+    border: 1px rgb(215, 215, 215)solid;
+    background-color: rgb(255, 255, 255);
+    margin: 0 0 0;
+    padding: 10px 15px 20px;
+}
+.res-box h2{
+    font-size: 20px;
+    /* text-align: center; */
+    color: #5e5e5f;
+}
+.res-box h3{
+    font-size: 18px;
+    color: #5e5e5f;
+    margin: 5px 0 10px;
+}
+.reg-part{
+    border: 1px solid #ddd;
+    padding: 40px 100px;
+    margin: 0 95px 30px;
+}
+.reg-part label{
+  
+color: #315d90;
+  
+font-size: 16px !important;
+}
+.icony {
+    position: absolute;
+    border-right: solid #999 thin;
+    height: 37px;
+    padding: 7px;
+    left: 0;
+    line-height: normal;
+    width: 40px;
+    color: #fffafa;
+    text-align: center;
+    background-color: #68686a;
+    }
+    .eye-color {
+    color: #315d90;
+}

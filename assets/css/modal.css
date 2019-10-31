@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+/**/
+.modal-footer {
+   padding: 9px 0px !important;
+    text-align: center;
+    border-top: none;
+}
+.modal-header {
+    padding: 9px !important;
+    background-color: #ece9e9;
+    border-bottom: 1px solid #e5e5e5;
+}
+.modal-body {
+    position: relative;
+    padding: 15px !important;
+}
+.modal-body h3{font-size: 17px;margin-bottom: 30px;}
+.modal-body small{font-size: 95%;/*! margin: 0 111px; *//*! color: #1089d7; */}
+
+.modal-title {
+    margin: 0;
+    line-height: 1.4;
+    font-size: 16px;
+}
+.numoffer-item{
+    border: 1px solid #e2dede;
+    padding: 5px 0;
+    margin: 0 0 15px;
+    line-height: 1.6;
+}
+.numoffer-item button{
+    top: 40px;
+    position: relative;
+}
